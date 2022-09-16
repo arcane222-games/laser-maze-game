@@ -1,2 +1,2 @@
-# Lazer Maze Game
-Lazer Maze Game based on java swing components
+# Laser Maze Game
+Laser Maze Game based on java swing components
